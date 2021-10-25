@@ -6,3 +6,5 @@ Estoy añadiendo una nueva funcionalidad.
 Añado cosas en Visual Studio Code
 
 Este es el segundo cambio desde VS.
+
+Cambio hecho desde github
