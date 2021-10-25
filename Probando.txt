@@ -7,4 +7,4 @@ Añado cosas en Visual Studio Code
 
 Este es el segundo cambio desde VS.
 
-Cambio hecho desde github
+Cambio hecho desde github. Además con git pull
